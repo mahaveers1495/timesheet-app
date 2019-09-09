@@ -1,0 +1,17 @@
+.navbar-header{
+    
+    padding-top: 40px;
+    padding-bottom: 0px;
+    height: 180%;
+    width: 1900px;      
+    font-size: 15px;
+  }
+.nav-link{
+  color:white;
+  font-size: 15px;
+}
+   
+.navbar-brand{
+  color: aliceblue;
+  font-size: 15px;
+}
